@@ -1,8 +1,12 @@
 ---
 layout: page
-title: "About me"
+title: About me
+permalink: /about/
 ---
 
+
+
+# something about me
 Colombe M'Boungou
 
 I am an AI Research Engineer in the Multispeech team ant Inria Lorraine in Nancy (France).
