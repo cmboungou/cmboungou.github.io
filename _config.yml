@@ -19,7 +19,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home" , icon:home}
   - {title: "Lab", url: "https://www.inria.fr/en/multispeech"}
-  - {title: "About me", file:"about.md"}
+  - {title: "About me", file:"README.md"}
   #title: "About Me"
   #url: /about/
   #- {title: "Blog", file:"blog.md"}
