@@ -5,9 +5,7 @@ permalink: /about/
 
 
 
-<div class="about-image">
-  <img src="Research Day1.jpeg" alt="Profile Image" />
-</div>
+[](Research Day1.jpeg)
 
 
 Colombe M'Boungou
