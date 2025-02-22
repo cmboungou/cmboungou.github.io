@@ -1,0 +1,10 @@
+.about-image {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 150px;  /* Adjust the size as needed */
+  height: 150px;
+  border-radius: 50%;  /* Circle border */
+  object-fit: cover;  /* Ensures the image is cropped correctly */
+  border: 5px solid #fff;  /* Optional: Add a border */
+}
