@@ -4,7 +4,8 @@ permalink: /about/
 ---
 
 
-![moi](Research Day1.jpeg)
+#![moi](Research Day1.jpeg)
+<img src="Research Day1.jpeg" class="img-responsive img-circle" alt="hello world"  width="100" height="100"> 
 
 Colombe M'Boungou
 
