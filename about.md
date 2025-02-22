@@ -5,7 +5,7 @@ permalink: /about/
 
 
 
-[](Research Day1.jpeg)
+![Profile Picture](Research Day1.jpeg)
 
 
 Colombe M'Boungou
