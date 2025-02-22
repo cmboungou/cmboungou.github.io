@@ -37,3 +37,6 @@ comments:
 
 plugins:
  - jekyll-feed
+
+ assets:
+  - "/assets/css/custom.css"
