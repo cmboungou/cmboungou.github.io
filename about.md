@@ -5,7 +5,7 @@ permalink: /about/
 
 
 
-![Profile Picture](Research Day1.jpeg)
+
 <img src="Research Day1.jpeg" alt="Profile Picture" class="profile-pic" />
 
 
