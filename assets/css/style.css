@@ -5,5 +5,6 @@
   border-radius: 50%;  /* This makes the image round */
   overflow: hidden;  /* Ensures nothing spills out of the rounded shape */
   display: block;  /* Ensures the image aligns correctly */
-  margin: 0 auto;  /* Centers the image if needed */
+  float: left;               /* Align the image to the left */
+  margin-right: 20px;        /* Add space on the right side of the image */
 }
