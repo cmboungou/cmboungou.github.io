@@ -5,7 +5,7 @@ permalink: /about/
 
 
 {% raw %}
-<img src="me.jpg">
+<img src="assets/me.jpg">
 {% endraw %}
 
 
