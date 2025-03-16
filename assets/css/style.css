@@ -1,0 +1,9 @@
+.profile-pic {
+  width: 150px;  /* Adjust the size as needed */
+  height: 150px;  /* Keep it the same as width to maintain the round shape */
+  object-fit: cover;  /* Ensures the image fits well and doesn't stretch */
+  border-radius: 50%;  /* This makes the image round */
+  overflow: hidden;  /* Ensures nothing spills out of the rounded shape */
+  display: block;  /* Ensures the image aligns correctly */
+  margin: 0 auto;  /* Centers the image if needed */
+}
