@@ -4,8 +4,9 @@ permalink: /about/
 ---
 
 
-
+{% raw %}
 <img src="research-day1.jpg" class="profile-pic">
+{% endraw %}
 
 
 Hello.
