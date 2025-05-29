@@ -12,7 +12,7 @@ permalink: /
 Hello.
 
 I am an AI Research Engineer in the [Multispeech](https://www.inria.fr/en/multispeech) team at INRIA Lorraine in Nancy (France).
-I am currently working on Robust and Efficient Audio-Visual Speech Enhancement[(REAVISE)](https://msaadeghii.github.io/projects/) using Deep Generative Models and specifically Audio-Visual Representation Learning with Researcher [Mostafa Sadeghi](https://msaadeghii.github.io/), Associate Professor [Romain Serizel](https://members.loria.fr/RSerizel/) and PhD Student [Jean-Eudes Ayilo](https://fr.linkedin.com/in/jeaneudesayilo).
+I am currently working on Robust and Efficient Audio-Visual Speech Enhancement [(REAVISE)](https://msaadeghii.github.io/projects/) using Deep Generative Models and specifically Audio-Visual Representation Learning with Researcher [Mostafa Sadeghi](https://msaadeghii.github.io/), Associate Professor [Romain Serizel](https://members.loria.fr/RSerizel/) and PhD Student [Jean-Eudes Ayilo](https://fr.linkedin.com/in/jeaneudesayilo).
 
 
 
