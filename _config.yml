@@ -9,7 +9,7 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_social: true
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
@@ -17,13 +17,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-   navigation:
-  - {file: "index.md", title: "Home" , icon:home}
-  #- {file: "about.md", title: "About Me", icon: user}
-  #- {title: "Lab", url: "https://www.inria.fr/en/multispeech"}
-  #- {file: "README.md"}
+  - {file: "index.html", title: "Home" , icon:home}
+  - {title: "Lab", url: "https://www.inria.fr/en/multispeech"}
+  - {file: "README.md"}
 
 
+
+header_pages:
+  - about.md
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mboungoucolombe@gmail.com"}
