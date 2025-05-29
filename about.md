@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /about/
+
 ---
 
-
+#permalink: /about/
 {% raw %}
 <img src="/assets/me.jpg" class="profile-pic">
 {% endraw %}
