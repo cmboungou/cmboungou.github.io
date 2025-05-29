@@ -17,14 +17,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-   - {file: "index.html", title: "Home" , icon:home}
+   navigation:
+  - {file: "about.md", title: "About Me", icon: user}
   - {title: "Lab", url: "https://www.inria.fr/en/multispeech"}
   - {file: "README.md"}
 
 
-
-header_pages:
-  - about.md
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mboungoucolombe@gmail.com"}
