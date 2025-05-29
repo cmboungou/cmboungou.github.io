@@ -1,6 +1,5 @@
 ---
 title: "Read Me"
-permalink: "/readme/"
 layout: page
 ---
 
